@@ -1,6 +1,26 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-	<!-- TEI Header Info -->
+
+<biblFull>
+	<titleStmt>
+		<title>Cajun and Creole Folktales: 
+			The French Oral Tradition of South Louisiana</title>
+		<author>Ancelet, Barry Jean</author>
+		</titleStmt>
+	<editionStmt>
+		<edition>hardcover</edition>
+		</editionStmt>
+	<extent>300 pp</extent>
+	<publicationStmt>
+		<publisher>University Press of Mississippi</publisher>
+		<pubPlace>Jackson, MS</pubPlace>
+		<date when="1846"/>
+		</publicationStmt>
+	<sourceDesc>
+		<p>No source: this is an original work</p>
+		</sourceDesc>
+</biblFull>
+
 </teiHeader>	 
 
 <text>
