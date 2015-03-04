@@ -1,0 +1,21 @@
+# About TEI Files
+
+TEI and XML have a lot in common. If you are new to both, and if HTML is still a strange thing to you, then there's a lot more you are probably going to want to know than I can explain here. 
+
+Perhaps it would help to note that all of them -- TEI, XML, HTML -- are markup languages and as such are basically designed to wrap tags around the kind of content you are used to thinking about. In fact, one way to understand them is that they allow you to place your thinking about a text in the text itself. 
+
+It would also probably help to know that of the three, TEI is the most forgiving and also the most flexible. There are a few rules you need to follow, but those rules are really about making sure that information is easily found either by human readers or by machines being directed by humans. E.g., no human wants to have to go hunting for a publication date, and no human wants to have to describe to a machine how to go hunting for a publication date. 
+
+That noted, a brief refresher of basic parts and pieces in a TEI document can't hurt:
+
+
+
+The `teiHeader` has four major parts:
+
+`<fileDesc>`: the *file description* contains a full bibliographic description of an electronic file.
+
+`<encodingDesc>`: the *encoding description* documents the relationship between an electronic text and it source or sources.
+
+`<profileDesc>`: the *text-profile description* provides a detailed description of non-bibliographic aspects of a text, specifically the languages and sublanguages used, the situation in which it was produced, the participants and their setting.
+
+`<revisionDesc>`: *revision description* summarizes the revision history for a file.

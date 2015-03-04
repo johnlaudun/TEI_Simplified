@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+
+	<teiHeader>
+		<!-- The TEI header contains all the necessary/relevant
+		 	metadata for a text/artifact. In the case of published
+			materials, it can contain the <biblFull> 
+		-->
     <fileDesc>
       <titleStmt>
         <title><!-- supply a title for the file here--></title>
