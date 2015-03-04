@@ -9,12 +9,12 @@
 		</titleStmt>
 	<editionStmt>
 		<edition>hardcover</edition>
-		</editionStmt>
+			</editionStmt>
 	<extent>300 pp</extent>
 	<publicationStmt>
 		<publisher>University Press of Mississippi</publisher>
 		<pubPlace>Jackson, MS</pubPlace>
-		<date when="1846"/>
+		<date when="1994"/>
 		</publicationStmt>
 	<sourceDesc>
 		<p>No source: this is an original work</p>
@@ -24,26 +24,26 @@
 </teiHeader>	 
 
 <text>
-I went to meet an old man in Marrero, 
-and he told me a story. 
-He went to look for a treasure with some other men. 
-And there was a controller 
-	who had brought a Bible to control the spirits. 
-And when they arrived at the site, 
-they saw a big horse coming through the woods with a man riding it, 
-and when he dismounted, 
-it was no longer a man on the horse. 
-It was a dog. 
-And he said the dog came and rubbed itself against his legs. 
-He said it was growling. 
-He said he knew the dog was touching him, 
-but he didn't feel anything. 
-It was like there was just a wind. 
-And he said they all took off running. 
-He lost his hat and his glasses 
-and he tore all his clothes. 
-And even the controller ran off 
-and he never saw his Bible again after that.
+<l>I went to meet an old man in Marrero, </l>
+<l>and he told me a story. </l>
+<l>He went to look for a treasure with some other men. </l>
+<l>And there was a controller </l>
+<l>who had brought a Bible to control the spirits. </l>
+<l>And when they arrived at the site, </l>
+<l>they saw a big horse coming through the woods with a man riding it, </l>
+<l>and when he dismounted, </l>
+<l>it was no longer a man on the horse. </l>
+<l>It was a dog. </l>
+<l>And he said the dog came and rubbed itself against his legs. </l>
+<l>He said it was growling. </l>
+<l>He said he knew the dog was touching him, </l>
+<l>but he didn't feel anything. </l>
+<l>It was like there was just a wind. </l>
+<l>And he said they all took off running.</l> 
+<l>He lost his hat and his glasses </l>
+<l>and he tore all his clothes. </l>
+<l>And even the controller ran off </l>
+<l>and he never saw his Bible again after that.</l>
 </text>
 
 </TEI>

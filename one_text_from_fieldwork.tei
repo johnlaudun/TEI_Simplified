@@ -6,17 +6,43 @@
 </teiHeader>	 
 <text>
 
-He was in the excavating business, 
-so he called me to come up and showed me the job. 
-And we dug house basements. 
-And that was when they were remodeling a lot filling stations, 
-making them super service and that sort of thing, 
-so I said, yeah, I’ll take it. 
-So I worked there about two years and a half. 
-And then we came back to Bloomington. 
-At that time, my brother-in-law--
-he’s passed away--
-but at that time he owned a furniture store, United furniture.
+<l td="7">He was in the excavating business, </l>
+<l td="2">so he called me to come up and showed me the job. </l>
+<l td="6">And we dug house basements. </l>
+<l td="6">And that was when they were remodeling a lot filling stations, </l>
+<l td="0">making them super service and that sort of thing, </l>
+<l td="6">so I said, yeah, I’ll take it. </l>
+<l td="2">So I worked there about two years and a half. </l>
+<l td="5">And then we came back to Bloomington. </l>
+<l td="5">At that time, my brother-in-law-- </l>
+<l td="7">he’s passed away-- </l>
+<l td="6">but at that time he owned a furniture store, United furniture. </l>
 
 </text>
 </TEI>
+
+<!-- 
+Somewhere else exists a definition of the <td> attribute as marking the temporal notion of Duration:
+
+0 Period of time lasting up to a minute
+1 Period of time greater than a minute and up to an hour
+2 Period of time greater than an hour and up to a day
+3 Period of time greater than a day and up to a week
+4 Period of time greater than a week and up to a month
+5 Period of time greater than a month and up to a year
+6 Period of time greater than a year and up to a decade
+7 Period of time greater than a decade
+-->
+
+<!-- 
+We could also add an attribute for periods:
+
+0 Period of time up to a minute past
+1 Period of time greater than a minute and up to an hour past
+2 Period of time greater than an hour and up to a day past
+3 Period of time greater than a day and up to a week past
+4 Period of time greater than a week and up to a month past
+5 Period of time greater than a month and up to a year past
+6 Period of time greater than a year and up to a decade past
+7 Period of time greater than a decade past
+-->
