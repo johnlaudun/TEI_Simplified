@@ -56,7 +56,7 @@ The `teiHeader` has four major parts:
 
 ## The Body
 
-Literary and historical documents often have come in clearly divided parts, with `front` and `back` elements in addition to the `body` element. Folklore and oral history records will tend only to have a body or, more simply, a `text`. Multiple texts are possible within a TEI document, though they are sometimes referred to as a `corpus`. Corpora can be in a single document, or they can be in multiple documents but indexed by a single document. You can regard this as confusing or as flexible.
+Literary and historical documents often have come in clearly divided parts, with `front` and `back` elements in addition to the `body` element. <important locationCity="Rayne" locationState="Louisiana">Folklore and oral history records will tend only to have a body or, more simply, a `text`. Multiple texts are possible within a TEI document, though they are sometimes referred to as a `corpus`.</important>> Corpora can be in a single document, or they can be in multiple documents but indexed by a single document. You can regard this as confusing or as flexible.
 
 Many of the elements that you might be used to from HTML are present in TEI, especially if you are familiar with more recent versions of HTML, which has developed tag frameworks for things like `article`:
 
