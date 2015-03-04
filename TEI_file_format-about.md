@@ -56,9 +56,9 @@ The `teiHeader` has four major parts:
 
 ## The Body
 
-Literary and historical documents often have come in clearly divided parts, with `front` and `back` elements in addition to the `body` element. Folklore and oral history records will tend only to have `text`.
+Literary and historical documents often have come in clearly divided parts, with `front` and `back` elements in addition to the `body` element. Folklore and oral history records will tend only to have a body or, more simply, a `text`. Multiple texts are possible within a TEI document, though they are sometimes referred to as a `corpus`. Corpora can be in a single document, or they can be in multiple documents but indexed by a single document. You can regard this as confusing or as flexible.
 
-Moreover, some of the elements that you might be used to from HTML, or act like you are used to from more recent versions of HTML, work the same in TEI:
+Many of the elements that you might be used to from HTML are present in TEI, especially if you are familiar with more recent versions of HTML, which has developed tag frameworks for things like `article`:
 
 - `<q>` is used for quotations. 
 - `<emph>` marks words or phrases which are stressed or emphasized for linguistic or rhetorical effect.
@@ -74,4 +74,4 @@ Either can be numbered:
 
     <s n="002">A quiet wedding we had:</s>
 
-
+In this instance, the line numbering of 2 is an attribute of the sentence element "A quiet wedding we had:".
